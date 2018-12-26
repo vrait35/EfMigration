@@ -10,6 +10,7 @@ namespace Migration
     {
         public string Name { get; set; }
         public int Price { get; set; }
+        public string SurName { get; set; }
         public virtual ICollection<Cart> Carts { get; set; } = new List<Cart>();
     }
 }

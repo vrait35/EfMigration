@@ -14,3 +14,5 @@ C:\Users\темирбулата\source\repos\Migration\Migration\obj\Debug\Migra
 C:\Users\темирбулата\source\repos\Migration\Migration\obj\Debug\Migration.Migrations.InitialCreate.resources
 C:\Users\темирбулата\source\repos\Migration\Migration\obj\Debug\Migration.csproj.GenerateResource.cache
 C:\Users\темирбулата\source\repos\Migration\Migration\obj\Debug\Migration.Migrations.AddedUsersnewpropertyIsBlocked.resources
+C:\Users\темирбулата\source\repos\Migration\Migration\obj\Debug\Migration.Migrations.AddLoginMigration.resources
+C:\Users\темирбулата\source\repos\Migration\Migration\obj\Debug\Migration.Migrations.AddSurNameMigration.resources
